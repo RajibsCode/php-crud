@@ -1,0 +1,24 @@
+/* registration page */
+.user-registration {
+    width: 500px;
+    margin: 0 auto;
+    border: 2px solid #ccc;
+    padding: 40px;
+    border-radius: 20px;
+}
+.user-registration button {
+    border-radius: 50px !important;
+    padding: 10px 30px;
+}
+
+/* index page */
+
+.logout-button {
+    border-radius: 50px !important;
+    padding: 10px 30px;    
+}
+.edit-button,.delete-button {
+    border-radius: 50px !important;
+    padding: 5px 15px;
+    font-size: 14px;     
+}
